@@ -83,11 +83,7 @@ body {
 
 .img-thumbnail{
     height: auto;
-    width: 100px; border-radius: 150px;
-    margin-left: 32px;
-    margin-top: 42px;
-    
-
+    width: 100px
 }
 
 h1{
